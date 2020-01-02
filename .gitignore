@@ -43,3 +43,7 @@ CTestTestfile.cmake
 *.out
 *.app
 
+
+# Other
+.*
+build
